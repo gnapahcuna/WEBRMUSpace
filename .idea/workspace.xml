@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb8b7689-984b-4eca-bfeb-4d90b9ae4c3c" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="manage-content-nav-2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manage-content-nav-2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8738">
+              <caret line="514" column="31" selection-end-line="719" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manage-content-nav-2.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manage-content-nav-2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12223">
+              <caret line="719" selection-start-line="719" selection-end-line="719" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manage-content-nav-3.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manage-content-nav-3.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4114">
+              <caret line="242" column="17" selection-end-line="947" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manage-content-nav-3.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manage-content-nav-3.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16099">
+              <caret line="947" selection-start-line="947" selection-end-line="947" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Login_v14/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="check_login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Login_v14/check_login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manage-content-nav-4.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manage-content-nav-4.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10948">
+              <caret line="644" column="37" selection-start-line="644" selection-start-column="31" selection-end-line="644" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manage-content-nav-5.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manage-content-nav-5.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7242">
+              <caret line="426" selection-end-line="996" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manage-content-nav-5.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manage-content-nav-5.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16932">
+              <caret line="996" selection-start-line="996" selection-end-line="996" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manage-content-nav-6.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manage-content-nav-6.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13277">
+              <caret line="781" lean-forward="true" selection-start-line="781" selection-end-line="781" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Current</find>
+      <find>Valerie Luna</find>
+      <find>User Admin</find>
+      <find>IsAdd</find>
+      <find>IsUserType</find>
+      <find>getSearchData</find>
+      <find>url: URLServ</find>
+      <find>../</find>
+      <find>videodefault</find>
+      <find>crossDomain: true,</find>
+      <find>myBodyPassCurrent</find>
+      <find>myBodyExercise</find>
+      <find>myTablePassCurrent</find>
+      <find>Exercise</find>
+      <find>main_page</find>
+      <find>IsSelectAddUserType</find>
+      <find>User Ad</find>
+      <find>Valerie</find>
+      <find>navbar/</find>
+      <find>User</find>
+      <find>menu/navbar/</find>
+      <find>.html</find>
+      <find>../../</find>
+      <find>User A</find>
+      <find>User a</find>
+      <find>logoutModal</find>
+      <find>&lt;ul class=&quot;nav nav-pills nav-justified&quot;&gt;</find>
+      <find>IsSelectEditSubTopic</find>
+      <find>IsSelectAddSubTopic</find>
+      <find>IsSelectEditLevel</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Login_v14/config.php" />
+        <option value="$PROJECT_DIR$/config-server/config.js" />
+        <option value="$PROJECT_DIR$/Login_v14/main_page.php" />
+        <option value="$PROJECT_DIR$/Login_v14/check_login.php" />
+        <option value="$PROJECT_DIR$/menu/manage-report.php" />
+        <option value="$PROJECT_DIR$/menu/manage-unit.html" />
+        <option value="$PROJECT_DIR$/menu/manage-unit.php" />
+        <option value="$PROJECT_DIR$/menu/manage-report.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Login_v14/logout.php" />
+        <option value="$PROJECT_DIR$/menu/navbar/logout.php" />
+        <option value="$PROJECT_DIR$/menu/logout.php" />
+        <option value="$PROJECT_DIR$/menu/manage-user.html" />
+        <option value="$PROJECT_DIR$/logout.php" />
+        <option value="$PROJECT_DIR$/menu/manage-user.php" />
+        <option value="$PROJECT_DIR$/menu/navbar/manage-content-nav-1.html" />
+        <option value="$PROJECT_DIR$/menu/navbar/manage-content-nav-1.php" />
+        <option value="$PROJECT_DIR$/menu/navbar/manage-content-nav-2.html" />
+        <option value="$PROJECT_DIR$/menu/navbar/manage-content-nav-2.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/manage-unit.html" />
+        <option value="$PROJECT_DIR$/manage-unit.php" />
+        <option value="$PROJECT_DIR$/menu/navbar/manage-content-nav-3.html" />
+        <option value="$PROJECT_DIR$/menu/navbar/manage-content-nav-3.php" />
+        <option value="$PROJECT_DIR$/menu/navbar/manage-content-nav-6.html" />
+        <option value="$PROJECT_DIR$/menu/navbar/manage-content-nav-6.php" />
+        <option value="$PROJECT_DIR$/manage-content-nav-1.html" />
+        <option value="$PROJECT_DIR$/menu/navbar/manage-content-nav-4.html" />
+        <option value="$PROJECT_DIR$/menu/navbar/manage-content-nav-4.php" />
+        <option value="$PROJECT_DIR$/menu/navbar/manage-content-nav-5.html" />
+        <option value="$PROJECT_DIR$/menu/navbar/manage-content-nav-5.php" />
+        <option value="$PROJECT_DIR$/menu/navbar/manage-content-nav-7.html" />
+        <option value="$PROJECT_DIR$/menu/navbar/manage-content-nav-7.php" />
+        <option value="$PROJECT_DIR$/manage-content-nav-1.php" />
+        <option value="$PROJECT_DIR$/Login_v14/index.html" />
+        <option value="$PROJECT_DIR$/manage-report.html" />
+        <option value="$PROJECT_DIR$/manage-report.php" />
+        <option value="$PROJECT_DIR$/manage-user.html" />
+        <option value="$PROJECT_DIR$/manage-user.php" />
+        <option value="$PROJECT_DIR$/manage-content-nav-7.html" />
+        <option value="$PROJECT_DIR$/manage-content-nav-7.php" />
+        <option value="$PROJECT_DIR$/manage-content-nav-2.html" />
+        <option value="$PROJECT_DIR$/manage-content-nav-2.php" />
+        <option value="$PROJECT_DIR$/manage-content-nav-4.php" />
+        <option value="$PROJECT_DIR$/manage-content-nav-6.html" />
+        <option value="$PROJECT_DIR$/manage-content-nav-6.php" />
+        <option value="$PROJECT_DIR$/manage-content-nav-5.html" />
+        <option value="$PROJECT_DIR$/manage-content-nav-5.php" />
+        <option value="$PROJECT_DIR$/manage-content-nav-4.html" />
+        <option value="$PROJECT_DIR$/manage-content-nav-3.html" />
+        <option value="$PROJECT_DIR$/manage-content-nav-3.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+      <path value="$PROJECT_DIR$/vendor/fontawesome-free/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="70" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RMU-Space" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RMU-Space" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RMU-Space" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RMU-Space" type="462c0819:PsiDirectoryNode" />
+              <item name="config-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RMU-Space" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RMU-Space" type="462c0819:PsiDirectoryNode" />
+              <item name="Login_v14" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\template-bootstrap\RMU-Space" />
+      <recent name="D:\template-bootstrap\RMU-Space\menu\navbar" />
+      <recent name="D:\template-bootstrap\RMU-Space\menu" />
+      <recent name="D:\template-bootstrap\startbootstrap-sb-admin-2-gh-pages\menu" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\template-bootstrap\RMU-Space" />
+      <recent name="D:\template-bootstrap\RMU-Space\menu\navbar" />
+      <recent name="D:\template-bootstrap\RMU-Space\menu" />
+      <recent name="D:\template-bootstrap\RMU-Space\Login_v14" />
+      <recent name="D:\template-bootstrap\startbootstrap-sb-admin-2-gh-pages" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb8b7689-984b-4eca-bfeb-4d90b9ae4c3c" name="Default" comment="" />
+      <created>1569910425842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569910425842</updated>
+      <workItem from="1569910427767" duration="3756000" />
+      <workItem from="1569921090632" duration="3656000" />
+      <workItem from="1569938600639" duration="2239000" />
+      <workItem from="1569982302016" duration="583000" />
+      <workItem from="1569982922912" duration="10752000" />
+      <workItem from="1570002342763" duration="9161000" />
+      <workItem from="1570075926702" duration="2942000" />
+      <workItem from="1570083550698" duration="12036000" />
+      <workItem from="1570110667273" duration="5343000" />
+      <workItem from="1570154037609" duration="15948000" />
+      <workItem from="1570181256970" duration="476000" />
+      <workItem from="1570196765782" duration="2633000" />
+      <workItem from="1570201751669" duration="608000" />
+      <workItem from="1570258162711" duration="897000" />
+      <workItem from="1570281690005" duration="917000" />
+      <workItem from="1570331976595" duration="619000" />
+      <workItem from="1570370422236" duration="2328000" />
+      <workItem from="1570418785811" duration="5151000" />
+      <workItem from="1570430590573" duration="3745000" />
+      <workItem from="1570457599907" duration="1400000" />
+      <workItem from="1570541930671" duration="2708000" />
+      <workItem from="1570588154771" duration="4270000" />
+      <workItem from="1570601986041" duration="3605000" />
+      <workItem from="1570672713404" duration="10750000" />
+      <workItem from="1570763690625" duration="3414000" />
+      <workItem from="1570890374679" duration="3816000" />
+      <workItem from="1570930936398" duration="6150000" />
+      <workItem from="1571469098929" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="119908000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Gulp" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26437542" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32909605" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32909605" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/manage-user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="95" column="41" selection-start-line="95" selection-start-column="28" selection-end-line="95" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3944">
+          <caret line="232" column="12" lean-forward="true" selection-start-line="232" selection-start-column="12" selection-end-line="235" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tables.html" />
+    <entry file="file://$PROJECT_DIR$/buttons.html" />
+    <entry file="file://$PROJECT_DIR$/manage-content-nav-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage-report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3995">
+          <caret line="235" column="54" selection-start-line="235" selection-start-column="54" selection-end-line="235" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.html" />
+    <entry file="file://$PROJECT_DIR$/manage-user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2057">
+          <caret line="121" column="5" selection-start-line="121" selection-start-column="5" selection-end-line="121" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.html" />
+    <entry file="file://$PROJECT_DIR$/404.html" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4522">
+          <caret line="266" column="41" selection-start-line="266" selection-start-column="41" selection-end-line="266" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.html" />
+    <entry file="file://$PROJECT_DIR$/utilities-border.html" />
+    <entry file="file://$PROJECT_DIR$/tables.html" />
+    <entry file="file://$PROJECT_DIR$/forgot-password.html" />
+    <entry file="file://$PROJECT_DIR$/blank.html" />
+    <entry file="file://$PROJECT_DIR$/buttons.html" />
+    <entry file="file://$PROJECT_DIR$/cards.html" />
+    <entry file="file://$PROJECT_DIR$/404.html" />
+    <entry file="file://$PROJECT_DIR$/config-server/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Login_v14/main_page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Login_v14/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.html" />
+    <entry file="file://$PROJECT_DIR$/menu/navbar/logout.php" />
+    <entry file="file://$PROJECT_DIR$/menu/logout.php" />
+    <entry file="file://$PROJECT_DIR$/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu/navbar/manage-content-nav-1.php" />
+    <entry file="file://$PROJECT_DIR$/manage-unit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="317" lean-forward="true" selection-end-line="705" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage-unit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="705" selection-start-line="705" selection-end-line="705" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="836" selection-start-line="836" selection-end-line="836" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="585" column="14" lean-forward="true" selection-start-line="582" selection-start-column="10" selection-end-line="585" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage-content-nav-1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="719" selection-start-line="719" selection-end-line="719" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage-report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="154" column="83" selection-end-line="728" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage-report.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="728" lean-forward="true" selection-start-line="728" selection-end-line="728" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage-user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="333" column="50" lean-forward="true" selection-end-line="837" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage-user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="837" lean-forward="true" selection-start-line="837" selection-end-line="837" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage-content-nav-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="624" column="8" lean-forward="true" selection-start-line="607" selection-start-column="2" selection-end-line="624" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage-content-nav-7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="546" column="30" lean-forward="true" selection-end-line="756" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage-content-nav-7.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="756" selection-start-line="756" selection-end-line="756" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage-content-nav-4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="920" selection-start-line="920" selection-end-line="920" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage-content-nav-6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="557" column="30" selection-end-line="781" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage-content-nav-6.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13277">
+          <caret line="781" lean-forward="true" selection-start-line="781" selection-end-line="781" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage-content-nav-5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7242">
+          <caret line="426" selection-end-line="996" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage-content-nav-5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16932">
+          <caret line="996" selection-start-line="996" selection-end-line="996" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage-content-nav-2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12223">
+          <caret line="719" selection-start-line="719" selection-end-line="719" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage-content-nav-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8738">
+          <caret line="514" column="31" selection-end-line="719" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage-content-nav-4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10948">
+          <caret line="644" column="37" selection-start-line="644" selection-start-column="31" selection-end-line="644" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage-content-nav-3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4114">
+          <caret line="242" column="17" selection-end-line="947" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage-content-nav-3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16099">
+          <caret line="947" selection-start-line="947" selection-end-line="947" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Login_v14/check_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Login_v14/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
